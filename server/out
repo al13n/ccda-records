@@ -1,0 +1,2625 @@
+{
+  "document": {
+    "date": "2014-02-12T18:01:13Z",
+    "title": "BPG AT 850 BOYLSTON - INTERNAL MEDICINE  Summarization of Episode Note",
+    "author": {
+      "name": {
+        "prefix": null,
+        "given": [],
+        "family": null
+      },
+      "address": {
+        "street": [
+          "Prudential Tower",
+          "800 Boylston Street, Suite 1150"
+        ],
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02199-8001",
+        "country": null
+      },
+      "phone": {
+        "work": "tel:(617)278-1000"
+      }
+    },
+    "documentation_of": [
+      {
+        "name": {
+          "prefix": null,
+          "given": [],
+          "family": null
+        },
+        "phone": {
+          "work": null
+        },
+        "address": {
+          "street": [],
+          "city": null,
+          "state": null,
+          "zip": null,
+          "country": null
+        }
+      }
+    ],
+    "location": {
+      "name": "BPG AT 850 BOYLSTON - INTERNAL MEDICINE",
+      "address": {
+        "street": [
+          "850 BOYLSTON ST SUITE 530"
+        ],
+        "city": " CHESTNUT HILL",
+        "state": "MA",
+        "zip": "02467",
+        "country": null
+      },
+      "encounter_date": null
+    }
+  },
+  "allergies": [
+    {
+      "date_range": {
+        "start": "2014-02-12T13:01:14Z",
+        "end": null
+      },
+      "name": null,
+      "code": "ASSERTION",
+      "code_system": "2.16.840.1.113883.5.4",
+      "code_system_name": "ActCode",
+      "status": "active",
+      "severity": null,
+      "reaction": {
+        "name": null,
+        "code": null,
+        "code_system": null
+      },
+      "reaction_type": {
+        "name": null,
+        "code": "419199007",
+        "code_system": "2.16.840.1.113883.6.96",
+        "code_system_name": null
+      },
+      "allergen": {
+        "name": "No allergy data is applicable",
+        "code": null,
+        "code_system": null,
+        "code_system_name": null
+      }
+    }
+  ],
+  "care_plan": [
+    {
+      "text": "No goal and instruction data is applicable",
+      "name": null,
+      "code": null,
+      "code_system": null,
+      "code_system_name": null
+    }
+  ],
+  "chief_complaint": {
+    "text": null
+  },
+  "demographics": {
+    "name": {
+      "prefix": null,
+      "given": [
+        "ONETEST"
+      ],
+      "family": "BWHCKDRISKTEST"
+    },
+    "dob": "01/01/1944",
+    "gender": "male",
+    "marital_status": null,
+    "address": {
+      "street": [
+        "123 MAIN STREET"
+      ],
+      "city": "BOSTON",
+      "state": "MA",
+      "zip": "02109",
+      "country": "US"
+    },
+    "phone": {
+      "home": "tel:(508)661-1616",
+      "work": null,
+      "mobile": null
+    },
+    "email": null,
+    "language": null,
+    "race": "Black or African American",
+    "ethnicity": "Not Hispanic or Latino",
+    "religion": null,
+    "birthplace": {
+      "state": null,
+      "zip": null,
+      "country": null
+    },
+    "guardian": {
+      "name": {
+        "given": [],
+        "family": null
+      },
+      "relationship": null,
+      "relationship_code": null,
+      "address": {
+        "street": [],
+        "city": null,
+        "state": null,
+        "zip": null,
+        "country": null
+      },
+      "phone": {
+        "home": null
+      }
+    },
+    "provider": {
+      "organization": null,
+      "phone": null,
+      "address": {
+        "street": [],
+        "city": null,
+        "state": null,
+        "zip": null,
+        "country": null
+      }
+    }
+  },
+  "encounters": [
+    {
+      "date": "2014-02-12T13:01:14Z",
+      "name": "encounter report",
+      "code": "371531000",
+      "code_system": "2.16.840.1.113883.6.96",
+      "code_system_name": "SNOMED",
+      "code_system_version": null,
+      "findings": [],
+      "translation": {
+        "name": null,
+        "code": null,
+        "code_system": null,
+        "code_system_name": null
+      },
+      "performer": {
+        "name": null,
+        "code": null,
+        "code_system": null,
+        "code_system_name": null
+      },
+      "location": {
+        "street": [],
+        "city": null,
+        "state": null,
+        "zip": null,
+        "country": null,
+        "organization": null
+      }
+    }
+  ],
+  "functional_statuses": [
+    {
+      "date": "02/12/2014",
+      "name": null,
+      "code": null,
+      "code_system": null,
+      "code_system_name": null
+    },
+    {
+      "date": "02/12/2014",
+      "name": null,
+      "code": null,
+      "code_system": null,
+      "code_system_name": null
+    }
+  ],
+  "immunizations": [
+    {
+      "date": "2014-02-12T13:01:14Z",
+      "product": {
+        "name": null,
+        "code": null,
+        "code_system": null,
+        "code_system_name": null,
+        "translation": {
+          "name": null,
+          "code": null,
+          "code_system": null,
+          "code_system_name": null
+        },
+        "lot_number": null,
+        "manufacturer_name": null
+      },
+      "dose_quantity": {
+        "value": null,
+        "unit": null
+      },
+      "route": {
+        "name": null,
+        "code": null,
+        "code_system": null,
+        "code_system_name": null
+      },
+      "instructions": null,
+      "education_type": {
+        "name": null,
+        "code": null,
+        "code_system": null
+      }
+    }
+  ],
+  "immunization_declines": [],
+  "instructions": [],
+  "results": [
+    {
+      "name": "Sodium [Moles/volume] in Serum or Plasma",
+      "code": "2951-2",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-11T13:54:00Z",
+          "name": "Sodium [Moles/volume] in Serum or Plasma",
+          "value": 141,
+          "unit": "mmol/L",
+          "code": "2951-2",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "136-145 mmol/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "HUSSAIN,SADIA S. M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Potassium [Moles/volume] in Serum or Plasma",
+      "code": "2823-3",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-11T13:54:00Z",
+          "name": "Potassium [Moles/volume] in Serum or Plasma",
+          "value": 4.4,
+          "unit": "mmol/L",
+          "code": "2823-3",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "3.4-5.0 mmol/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "HUSSAIN,SADIA S. M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chloride [Moles/volume] in Serum or Plasma",
+      "code": "2075-0",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-11T13:54:00Z",
+          "name": "Chloride [Moles/volume] in Serum or Plasma",
+          "value": 103,
+          "unit": "mmol/L",
+          "code": "2075-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "98-107 mmol/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "HUSSAIN,SADIA S. M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carbon dioxide, total [Moles/volume] in Serum or Plasma",
+      "code": "2028-9",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-11T13:54:00Z",
+          "name": "Carbon dioxide, total [Moles/volume] in Serum or Plasma",
+          "value": 22,
+          "unit": "mmol/L",
+          "code": "2028-9",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "22-31 mmol/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "HUSSAIN,SADIA S. M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Urea nitrogen [Mass/volume] in Serum or Plasma",
+      "code": "3094-0",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-11T13:54:00Z",
+          "name": "Urea nitrogen [Mass/volume] in Serum or Plasma",
+          "value": 14,
+          "unit": "mg/dL",
+          "code": "3094-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "6-23 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "HUSSAIN,SADIA S. M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calcium [Mass/volume] in Serum or Plasma",
+      "code": "17861-6",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-11T13:54:00Z",
+          "name": "Calcium [Mass/volume] in Serum or Plasma",
+          "value": 8.8,
+          "unit": "mg/dL",
+          "code": "17861-6",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "8.8-10.7 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "HUSSAIN,SADIA S. M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Creatinine [Mass/volume] in Serum or Plasma",
+      "code": "2160-0",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-11T13:54:00Z",
+          "name": "Creatinine [Mass/volume] in Serum or Plasma",
+          "value": 1.9,
+          "unit": "mg/dL",
+          "code": "2160-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "0.50-1.20 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "HUSSAIN,SADIA S. M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deprecated Glucose [Mass/volume] in Serum or Plasma",
+      "code": "6777-7",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-11T13:54:00Z",
+          "name": "Deprecated Glucose [Mass/volume] in Serum or Plasma",
+          "value": 91,
+          "unit": "mg/dL",
+          "code": "6777-7",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "70-100 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "HUSSAIN,SADIA S. M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anion gap 3 in Serum or Plasma",
+      "code": "10466-1",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-11T13:54:00Z",
+          "name": "Anion gap 3 in Serum or Plasma",
+          "value": 10,
+          "unit": "mmol/L",
+          "code": "10466-1",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "5-17 mmol/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "HUSSAIN,SADIA S. M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glomerular filtration rate/1.73 sq M.predicted by Creatinine-based formula (MDRD)",
+      "code": "33914-3",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-11T13:54:00Z",
+          "name": "Glomerular filtration rate/1.73 sq M.predicted by Creatinine-based formula (MDRD)",
+          "value": 40,
+          "unit": null,
+          "code": "33914-3",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "HUSSAIN,SADIA S. M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carbon dioxide, total [Moles/volume] in Serum or Plasma",
+      "code": "2028-9",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T10:00:00Z",
+          "name": "Carbon dioxide, total [Moles/volume] in Serum or Plasma",
+          "value": 22,
+          "unit": "mmol/L",
+          "code": "2028-9",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "22-31 mmol/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albumin [Mass/volume] in Serum or Plasma",
+      "code": "1751-7",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T10:00:00Z",
+          "name": "Albumin [Mass/volume] in Serum or Plasma",
+          "value": 3.9,
+          "unit": "g/dL",
+          "code": "1751-7",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "3.5-5.2 g/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calcium [Mass/volume] in Serum or Plasma",
+      "code": "17861-6",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T10:00:00Z",
+          "name": "Calcium [Mass/volume] in Serum or Plasma",
+          "value": 8.8,
+          "unit": "mg/dL",
+          "code": "17861-6",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "8.8-10.7 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Creatinine [Mass/volume] in Serum or Plasma",
+      "code": "2160-0",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T10:00:00Z",
+          "name": "Creatinine [Mass/volume] in Serum or Plasma",
+          "value": 1.9,
+          "unit": "mg/dL",
+          "code": "2160-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "0.50-1.20 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phosphate [Mass/volume] in Serum or Plasma",
+      "code": "2777-1",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T10:00:00Z",
+          "name": "Phosphate [Mass/volume] in Serum or Plasma",
+          "value": 5.1,
+          "unit": "mg/dL",
+          "code": "2777-1",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "2.4-4.3 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glomerular filtration rate/1.73 sq M.predicted by Creatinine-based formula (MDRD)",
+      "code": "33914-3",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T10:00:00Z",
+          "name": "Glomerular filtration rate/1.73 sq M.predicted by Creatinine-based formula (MDRD)",
+          "value": 40,
+          "unit": null,
+          "code": "33914-3",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Creatinine [Mass/volume] in unspecified time Urine",
+      "code": "35674-1",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T09:30:00Z",
+          "name": "Creatinine [Mass/volume] in unspecified time Urine",
+          "value": 1.9,
+          "unit": "mg/dL",
+          "code": "35674-1",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "SINGH,KARANDEEP M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Microalbumin [Mass/volume] in Urine",
+      "code": "14957-5",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T09:30:00Z",
+          "name": "Microalbumin [Mass/volume] in Urine",
+          "value": 3.9,
+          "unit": "mg/dL",
+          "code": "14957-5",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "0.0-2.0 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "SINGH,KARANDEEP M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Microalbumin/Creatinine [Mass Ratio] in Urine",
+      "code": "14959-1",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T09:30:00Z",
+          "name": "Microalbumin/Creatinine [Mass Ratio] in Urine",
+          "value": 287,
+          "unit": "mgAlb/gCre",
+          "code": "14959-1",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "0.0-30 mgAlb/gCre",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "SINGH,KARANDEEP M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Collection duration of Urine",
+      "code": "13362-9",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T09:30:00Z",
+          "name": "Collection duration of Urine",
+          "value": "RANDOM",
+          "unit": null,
+          "code": "13362-9",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "SINGH,KARANDEEP M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albumin [Mass/volume] in Serum or Plasma",
+      "code": "1751-7",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T08:22:00Z",
+          "name": "Albumin [Mass/volume] in Serum or Plasma",
+          "value": 3.9,
+          "unit": "g/dL",
+          "code": "1751-7",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "3.5-5.2 g/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calcium [Mass/volume] in Serum or Plasma",
+      "code": "17861-6",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T08:22:00Z",
+          "name": "Calcium [Mass/volume] in Serum or Plasma",
+          "value": 8.8,
+          "unit": "mg/dL",
+          "code": "17861-6",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "8.8-10.7 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Creatinine [Mass/volume] in Serum or Plasma",
+      "code": "2160-0",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T08:22:00Z",
+          "name": "Creatinine [Mass/volume] in Serum or Plasma",
+          "value": 1.9,
+          "unit": "mg/dL",
+          "code": "2160-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "0.50-1.20 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Phosphate [Mass/volume] in Serum or Plasma",
+      "code": "2777-1",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T08:22:00Z",
+          "name": "Phosphate [Mass/volume] in Serum or Plasma",
+          "value": 5.1,
+          "unit": "mg/dL",
+          "code": "2777-1",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "2.4-4.3 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bicarbonate [Moles/volume] in Venous blood",
+      "code": "14627-4",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T08:22:00Z",
+          "name": "Bicarbonate [Moles/volume] in Venous blood",
+          "value": 22,
+          "unit": "mEq/L",
+          "code": "14627-4",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "25.9-30.0 mEq/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glomerular filtration rate/1.73 sq M.predicted by Creatinine-based formula (MDRD)",
+      "code": "33914-3",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-02-10T08:22:00Z",
+          "name": "Glomerular filtration rate/1.73 sq M.predicted by Creatinine-based formula (MDRD)",
+          "value": 40,
+          "unit": null,
+          "code": "33914-3",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "Not available",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sodium [Moles/volume] in Serum or Plasma",
+      "code": "2951-2",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Sodium [Moles/volume] in Serum or Plasma",
+          "value": 143,
+          "unit": "mmol/L",
+          "code": "2951-2",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "136-145 mmol/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Potassium [Moles/volume] in Serum or Plasma",
+      "code": "2823-3",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Potassium [Moles/volume] in Serum or Plasma",
+          "value": 4.7,
+          "unit": "mmol/L",
+          "code": "2823-3",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "3.4-5.0 mmol/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chloride [Moles/volume] in Serum or Plasma",
+      "code": "2075-0",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Chloride [Moles/volume] in Serum or Plasma",
+          "value": 100,
+          "unit": "mmol/L",
+          "code": "2075-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "98-107 mmol/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carbon dioxide, total [Moles/volume] in Serum or Plasma",
+      "code": "2028-9",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Carbon dioxide, total [Moles/volume] in Serum or Plasma",
+          "value": 32,
+          "unit": "mmol/L",
+          "code": "2028-9",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "22-31 mmol/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
+      "code": "1742-6",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
+          "value": 64,
+          "unit": "U/L",
+          "code": "1742-6",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "10-50 U/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
+      "code": "1920-8",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
+          "value": 43,
+          "unit": "U/L",
+          "code": "1920-8",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "10-50 U/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma",
+      "code": "6768-6",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma",
+          "value": 94,
+          "unit": "U/L",
+          "code": "6768-6",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "35-130 U/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
+      "code": "1975-2",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
+          "value": 0.5,
+          "unit": "mg/dL",
+          "code": "1975-2",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "0.0-1.0 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Protein [Mass/volume] in Serum or Plasma",
+      "code": "2885-2",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Protein [Mass/volume] in Serum or Plasma",
+          "value": 6.8,
+          "unit": "g/dL",
+          "code": "2885-2",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "6.4-8.3 g/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Albumin [Mass/volume] in Serum or Plasma",
+      "code": "1751-7",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Albumin [Mass/volume] in Serum or Plasma",
+          "value": 4.1,
+          "unit": "g/dL",
+          "code": "1751-7",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "3.5-5.2 g/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Globulin [Mass/volume] in Serum",
+      "code": "2336-6",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Globulin [Mass/volume] in Serum",
+          "value": 2.7,
+          "unit": "g/dL",
+          "code": "2336-6",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "2.0-4.0 g/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Urea nitrogen [Mass/volume] in Serum or Plasma",
+      "code": "3094-0",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Urea nitrogen [Mass/volume] in Serum or Plasma",
+          "value": 17,
+          "unit": "mg/dL",
+          "code": "3094-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "6-23 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Calcium [Mass/volume] in Serum or Plasma",
+      "code": "17861-6",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Calcium [Mass/volume] in Serum or Plasma",
+          "value": 10.1,
+          "unit": "mg/dL",
+          "code": "17861-6",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "8.8-10.7 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Creatinine [Mass/volume] in Serum or Plasma",
+      "code": "2160-0",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Creatinine [Mass/volume] in Serum or Plasma",
+          "value": 1.01,
+          "unit": "mg/dL",
+          "code": "2160-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "0.50-1.20 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Deprecated Glucose [Mass/volume] in Serum or Plasma",
+      "code": "6777-7",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Deprecated Glucose [Mass/volume] in Serum or Plasma",
+          "value": 136,
+          "unit": "mg/dL",
+          "code": "6777-7",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "70-100 mg/dL",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Anion gap 3 in Serum or Plasma",
+      "code": "10466-1",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Anion gap 3 in Serum or Plasma",
+          "value": 11,
+          "unit": "mmol/L",
+          "code": "10466-1",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": "5-17 mmol/L",
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    },
+    {
+      "name": "Glomerular filtration rate/1.73 sq M.predicted by Creatinine-based formula (MDRD)",
+      "code": "33914-3",
+      "code_system": "2.16.840.1.113883.6.1",
+      "code_system_name": "LOINC",
+      "tests": [
+        {
+          "date": "2014-01-30T07:57:00Z",
+          "name": "Glomerular filtration rate/1.73 sq M.predicted by Creatinine-based formula (MDRD)",
+          "value": 54,
+          "unit": null,
+          "code": "33914-3",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        },
+        {
+          "date": null,
+          "name": "Information source",
+          "value": "NAYAK,LAKSHMI M.D.",
+          "unit": null,
+          "code": "48766-0",
+          "code_system": "2.16.840.1.113883.6.1",
+          "code_system_name": "LOINC",
+          "translation": {
+            "name": null,
+            "code": null,
+            "code_system": null,
+            "code_system_name": null
+          },
+          "reference_range": {
+            "text": null,
+            "low_unit": null,
+            "low_value": null,
+            "high_unit": null,
+            "high_value": null
+          }
+        }
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "date_range": {
+        "start": "2014-02-12T13:01:14Z",
+        "end": null
+      },
+      "text": "No medication data is applicable",
+      "product": {
+        "name": "No medication data is applicable",
+        "code": null,
+        "code_system": null,
+        "text": "No medication data is applicable",
+        "translation": {
+          "name": null,
+          "code": null,
+          "code_system": null,
+          "code_system_name": null
+        }
+      },
+      "dose_quantity": {
+        "value": null,
+        "unit": null
+      },
+      "rate_quantity": {
+        "value": null,
+        "unit": null
+      },
+      "precondition": {
+        "name": null,
+        "code": null,
+        "code_system": null
+      },
+      "reason": {
+        "name": null,
+        "code": null,
+        "code_system": null
+      },
+      "route": {
+        "name": null,
+        "code": null,
+        "code_system": null,
+        "code_system_name": null
+      },
+      "schedule": {
+        "type": null,
+        "period_value": null,
+        "period_unit": null
+      },
+      "vehicle": {
+        "name": null,
+        "code": null,
+        "code_system": null,
+        "code_system_name": null
+      },
+      "administration": {
+        "name": null,
+        "code": null,
+        "code_system": null,
+        "code_system_name": null
+      },
+      "prescriber": {
+        "organization": null,
+        "person": null
+      }
+    }
+  ],
+  "problems": [
+    {
+      "date_range": {
+        "start": "2014-02-12T13:01:14Z",
+        "end": null
+      },
+      "name": null,
+      "status": null,
+      "age": null,
+      "code": null,
+      "code_system": null,
+      "code_system_name": null,
+      "translation": {
+        "name": null,
+        "code": null,
+        "code_system": null,
+        "code_system_name": null
+      },
+      "comment": null
+    }
+  ],
+  "procedures": [
+    {
+      "date": "2014-02-12T13:01:14Z",
+      "name": "No procedure data is applicable",
+      "code": null,
+      "code_system": null,
+      "specimen": {
+        "name": null,
+        "code": null,
+        "code_system": null
+      },
+      "performer": {
+        "street": [],
+        "city": null,
+        "state": null,
+        "zip": null,
+        "country": null,
+        "organization": null,
+        "phone": null
+      },
+      "device": {
+        "name": null,
+        "code": null,
+        "code_system": null
+      }
+    }
+  ],
+  "smoking_status": {
+    "date": null,
+    "name": null,
+    "code": null,
+    "code_system": null,
+    "code_system_name": null
+  },
+  "vitals": [
+    {
+      "date": "2014-02-12T13:01:14Z",
+      "results": [
+        {
+          "name": null,
+          "code": null,
+          "code_system": null,
+          "code_system_name": null,
+          "value": null,
+          "unit": null
+        }
+      ]
+    }
+  ]
+}
+Connected correctly to database server.
