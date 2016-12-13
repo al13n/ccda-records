@@ -8,34 +8,19 @@ function pushToDB(file) {
     var myRecord = BlueButton(xml);
 
     function insertDoc(db, data, callback) {
-
-        var cursor = db.collection('patientsData').find({
+        db.collection('patientsData').insertOne({
             "demographics": data.demographics,
             "results": data.results
-        }).limit(1);
-        var mutex = true;
-        cursor.each(function(err, doc) {
-            if (doc != null) {
-                console.log('Exists!');
-                callback();
-                mutex = false;
+        }, function(err, doc) {
+            if (err) {
+                throw err;
             } else {
-                if (mutex) {
-                    db.collection('patientsData').insertOne({
-                        "demographics": data.demographics,
-                        "results": data.results
-                    }, function(err, doc) {
-                        if (err) {
-                            throw err;
-                        } else {
-                            console.log("Inserted a document into the patients-data collection.");
-                            callback();
-                        }
-                    });
-                }
+                console.log("Inserted a document into the patients-data collection.");
+                callback();
             }
         });
     }
+
 
     MongoClient.connect(config.dbURL, function(err, db) {
         //console.log("Connected to database server.");
@@ -44,6 +29,7 @@ function pushToDB(file) {
         });
     });
 }
+
 
 for (var i = 2; i < process.argv.length; i++) {
     pushToDB(process.argv[i]);
